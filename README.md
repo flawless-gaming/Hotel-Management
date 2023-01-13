@@ -3,6 +3,9 @@
 Modules used:
   >Tkinter
   >CSV
+  >OS
+  >MATH
+  >date and time
   
 INSTRUCTION TO RUN PROJECT
 ==========================
