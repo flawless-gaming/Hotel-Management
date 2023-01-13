@@ -1,4 +1,9 @@
 # Hotel-Management
+
+Modules used:
+  >Tkinter
+  >CSV
+  
 INSTRUCTION TO RUN PROJECT
 ==========================
 1. OPEN ROOMSFILL.PY AND RUN IT
